@@ -72,5 +72,5 @@ object GeoJsonMapper {
         (this as? JsonArray)?.toList()
 
     private fun JsonElement.jsonPrimitiveSafe(): String? =
-        (this as? JsonPrimitive)?.content
+        (this as? JsonPrimitive)?.content?.takeIf { it.isNotBlank() }
 }
