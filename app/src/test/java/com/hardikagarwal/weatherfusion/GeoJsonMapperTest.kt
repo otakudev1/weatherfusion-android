@@ -21,15 +21,15 @@ class GeoJsonMapperTest {
         val area = if (areaDesc == null) "" else "\"areaDesc\":\"$areaDesc\","
         return """
         |{"type":"FeatureCollection","features":[{"type":"Feature","id":"urn:oid:1",
-        | "properties":{"@type":"wx:Alert","areaDesc":PLACEHOLDER_AREA,"sent":"2026-10-20T12:00:00Z",
+        | "properties":{"@type":"wx:Alert",AREA "sent":"2026-10-20T12:00:00Z",
         |  SEV "event":"EVENT_NAME","headline":"Test headline",
         |  ON EX "senderName":"NWS Test","effective":"2026-10-20T12:00:00Z"}}
         |]}
-        """.trimIndent()
+        """.trimMargin()
             .replace("SEV ", sev)
             .replace("ON ", on)
             .replace("EX ", ex)
-            .replace("PLACEHOLDER_AREA", area)
+            .replace("AREA ", area)
             .replace("EVENT_NAME", event)
     }
 
