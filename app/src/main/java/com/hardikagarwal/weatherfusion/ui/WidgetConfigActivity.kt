@@ -1,1 +1,80 @@
-cGFja2FnZSBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLnVpCgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGUKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkVkaXRUZXh0CmltcG9ydCBhbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXQKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3CmltcG9ydCBhbmRyb2lkeC5hcHBjb21wYXQuYXBwLkFwcENvbXBhdEFjdGl2aXR5CmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLlIKaW1wb3J0IGNvbS5oYXJkaWthZ2Fyd2FsLndlYXRoZXJmdXNpb24uZGF0YS5Mb2NhdGlvblN0b3JlCmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLmRhdGEuT3Blbk1ldGVvQXBpCmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLmRvbWFpbi5HZW9QbGFjZQppbXBvcnQgY29tLmhhcmRpa2FnYXJ3YWwud2VhdGhlcmZ1c2lvbi53aWRnZXQuV2lkZ2V0UmVmcmVzaGVyCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuQ29yb3V0aW5lU2NvcGUKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5EaXNwYXRjaGVycwppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmxhdW5jaAoKLyoqCiAqIFdpZGdldCBjb25maWcgYmluZGluZzogcGlja2luZyBhIGxvY2F0aW9uIGhlcmUgd3JpdGVzIHRoZSBTQU1FCiAqIFNoYXJlZFByZWZlcmVuY2VzIHJlY29yZCB0aGUgZGFzaGJvYXJkIHVzZXMgKExvY2F0aW9uU3RvcmUpLCBzbyB0aGUKICogd2lkZ2V0IGNhbiBuZXZlciBmb3JrIGZyb20gYXBwIHN0YXRlLiBSZWZyZXNoZXMgd2lkZ2V0cyBpbW1lZGlhdGVseS4KICovCmNsYXNzIFdpZGdldENvbmZpZ0FjdGl2aXR5IDogQXBwQ29tcGF0QWN0aXZpdHkoKSB7CgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2VhcmNoSW5wdXQ6IEVkaXRUZXh0CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciByZXN1bHRzQm94OiBMaW5lYXJMYXlvdXQKCiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X3dpZGdldF9jb25maWcpCiAgICAgICAgc2VhcmNoSW5wdXQgPSBmaW5kVmlld0J5SWQoUi5pZC5jb25maWdfc2VhcmNoX2lucHV0KQogICAgICAgIHJlc3VsdHNCb3ggPSBmaW5kVmlld0J5SWQoUi5pZC5jb25maWdfcmVzdWx0c19ib3gpCiAgICAgICAgc2V0VGl0bGUoUi5zdHJpbmcud2lkZ2V0X2NvbmZpZ190aXRsZSkKCiAgICAgICAgc2VhcmNoSW5wdXQuYWRkVGV4dENoYW5nZWRMaXN0ZW5lcihvYmplY3QgOiBhbmRyb2lkLnRleHQuVGV4dFdhdGNoZXIgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gYmVmb3JlVGV4dENoYW5nZWQoczogQ2hhclNlcXVlbmNlPywgYTogSW50LCBiOiBJbnQsIGM6IEludCkge30KICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uVGV4dENoYW5nZWQoczogQ2hhclNlcXVlbmNlPywgYTogSW50LCBiOiBJbnQsIGM6IEludCkge30KICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGFmdGVyVGV4dENoYW5nZWQoczogYW5kcm9pZC50ZXh0LkVkaXRhYmxlPykgeyBzZWFyY2gocz8udG9TdHJpbmcoKT8udHJpbSgpID86ICIiKSB9CiAgICAgICAgfSkKCiAgICAgICAgLy8gUHJlLXNlbGVjdCB0aGUgYXBwJ3MgY3VycmVudCBsb2NhdGlvbiBzbyAianVzdCBhY2NlcHQiIHdvcmtzLgogICAgICAgIExvY2F0aW9uU3RvcmUodGhpcykubG9hZCgpPy5sZXQgeyBzZWFyY2hJbnB1dC5zZXRUZXh0KGl0Lm5hbWUpIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBzZWFyY2gocXVlcnk6IFN0cmluZykgewogICAgICAgIGlmIChxdWVyeS5sZW5ndGggPCAyKSByZXR1cm4KICAgICAgICBDb3JvdXRpbmVTY29wZShEaXNwYXRjaGVycy5NYWluKS5sYXVuY2ggewogICAgICAgICAgICB2YWwgcmVzdWx0cyA9IHJ1bkNhdGNoaW5nIHsgT3Blbk1ldGVvQXBpKCkuZ2VvY29kZShxdWVyeSkgfQogICAgICAgICAgICAgICAgLmdldE9yRGVmYXVsdChlbXB0eUxpc3QoKSkKICAgICAgICAgICAgICAgIC5tYXBOb3ROdWxsIHsgciAtPgogICAgICAgICAgICAgICAgICAgIHZhbCBsYXQgPSByLmxhdGl0dWRlID86IHJldHVybkBtYXBOb3ROdWxsIG51bGwKICAgICAgICAgICAgICAgICAgICB2YWwgbG9uID0gci5sb25naXR1ZGUgPzogcmV0dXJuQG1hcE5vdE51bGwgbnVsbAogICAgICAgICAgICAgICAgICAgIEdlb1BsYWNlKAogICAgICAgICAgICAgICAgICAgICAgICBuYW1lID0gci5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBsYXRpdHVkZSA9IGxhdCwKICAgICAgICAgICAgICAgICAgICAgICAgbG9uZ2l0dWRlID0gbG9uLAogICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5ID0gci5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5Q29kZSA9IHIuY291bnRyeUNvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgIGFkbWluMSA9IHIuYWRtaW4xLAogICAgICAgICAgICAgICAgICAgICAgICB0aW1lem9uZSA9IHIudGltZXpvbmUsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICByZXN1bHRzQm94LnJlbW92ZUFsbFZpZXdzKCkKICAgICAgICAgICAgcmVzdWx0cy5mb3JFYWNoIHsgcGxhY2UgLT4KICAgICAgICAgICAgICAgIHZhbCByb3cgPSBUZXh0Vmlldyh0aGlzQFdpZGdldENvbmZpZ0FjdGl2aXR5KS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgdGV4dCA9IHBsYWNlLmRpc3BsYXlOYW1lKCkKICAgICAgICAgICAgICAgICAgICBzZXRQYWRkaW5nKGRwKDE2KSwgZHAoMTIpLCBkcCgxNiksIGRwKDEyKSkKICAgICAgICAgICAgICAgICAgICBzZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgICAgICAgICAgICAgICAgICBMb2NhdGlvblN0b3JlKHRoaXNAV2lkZ2V0Q29uZmlnQWN0aXZpdHkpLnNhdmUocGxhY2UpCiAgICAgICAgICAgICAgICAgICAgICAgIFdpZGdldFJlZnJlc2hlci5yZXF1ZXN0UmVmcmVzaChhcHBsaWNhdGlvbkNvbnRleHQpCiAgICAgICAgICAgICAgICAgICAgICAgIHNldFJlc3VsdChSRVNVTFRfT0spCiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaCgpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmVzdWx0c0JveC5hZGRWaWV3KHJvdykKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1biBkcCh2OiBJbnQpOiBJbnQgPSAodiAqIHJlc291cmNlcy5kaXNwbGF5TWV0cmljcy5kZW5zaXR5KS50b0ludCgpCn0K
+package com.hardikagarwal.weatherfusion.ui
+
+import android.os.Bundle
+import android.widget.EditText
+import android.widget.LinearLayout
+import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import com.hardikagarwal.weatherfusion.R
+import com.hardikagarwal.weatherfusion.data.LocationStore
+import com.hardikagarwal.weatherfusion.data.OpenMeteoApi
+import com.hardikagarwal.weatherfusion.domain.GeoPlace
+import com.hardikagarwal.weatherfusion.widget.WidgetRefresher
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+
+/**
+ * Widget config binding: picking a location here writes the SAME
+ * SharedPreferences record the dashboard uses (LocationStore), so the
+ * widget can never fork from app state. Refreshes widgets immediately.
+ */
+class WidgetConfigActivity : AppCompatActivity() {
+
+    private lateinit var searchInput: EditText
+    private lateinit var resultsBox: LinearLayout
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_widget_config)
+        searchInput = findViewById(R.id.config_search_input)
+        resultsBox = findViewById(R.id.config_results_box)
+        setTitle(R.string.widget_config_title)
+
+        searchInput.addTextChangedListener(object : android.text.TextWatcher {
+            override fun beforeTextChanged(s: CharSequence?, a: Int, b: Int, c: Int) {}
+            override fun onTextChanged(s: CharSequence?, a: Int, b: Int, c: Int) {}
+            override fun afterTextChanged(s: android.text.Editable?) { search(s?.toString()?.trim() ?: "") }
+        })
+
+        // Pre-select the app's current location so "just accept" works.
+        LocationStore(this).load()?.let { searchInput.setText(it.name) }
+    }
+
+    private fun search(query: String) {
+        if (query.length < 2) return
+        CoroutineScope(Dispatchers.Main).launch {
+            val results = runCatching { OpenMeteoApi().geocode(query) }
+                .getOrDefault(emptyList())
+                .mapNotNull { r ->
+                    val lat = r.latitude ?: return@mapNotNull null
+                    val lon = r.longitude ?: return@mapNotNull null
+                    GeoPlace(
+                        name = r.name,
+                        latitude = lat,
+                        longitude = lon,
+                        country = r.country,
+                        countryCode = r.countryCode,
+                        admin1 = r.admin1,
+                        timezone = r.timezone,
+                    )
+                }
+            resultsBox.removeAllViews()
+            results.forEach { place ->
+                val row = TextView(this@WidgetConfigActivity).apply {
+                    text = place.displayName()
+                    setPadding(dp(16), dp(12), dp(16), dp(12))
+                    setOnClickListener {
+                        LocationStore(this@WidgetConfigActivity).save(place)
+                        WidgetRefresher.requestRefresh(applicationContext)
+                        setResult(RESULT_OK)
+                        finish()
+                    }
+                }
+                resultsBox.addView(row)
+            }
+        }
+    }
+
+    private fun dp(v: Int): Int = (v * resources.displayMetrics.density).toInt()
+}
