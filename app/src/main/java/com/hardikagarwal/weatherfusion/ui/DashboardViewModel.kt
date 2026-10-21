@@ -1,1 +1,76 @@
-cGFja2FnZSBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLnVpCgppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLkxpdmVEYXRhCmltcG9ydCBhbmRyb2lkeC5saWZlY3ljbGUuTXV0YWJsZUxpdmVEYXRhCmltcG9ydCBhbmRyb2lkeC5saWZlY3ljbGUuVmlld01vZGVsCmltcG9ydCBhbmRyb2lkeC5saWZlY3ljbGUudmlld01vZGVsU2NvcGUKaW1wb3J0IGNvbS5oYXJkaWthZ2Fyd2FsLndlYXRoZXJmdXNpb24uZGF0YS5HZW9jb2RpbmdSZXN1bHQKaW1wb3J0IGNvbS5oYXJkaWthZ2Fyd2FsLndlYXRoZXJmdXNpb24uZGF0YS5Mb2NhdGlvblN0b3JlCmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLmRhdGEuT3Blbk1ldGVvQXBpCmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLmRhdGEuV2VhdGhlclJlcG9zaXRvcnkKaW1wb3J0IGNvbS5oYXJkaWthZ2Fyd2FsLndlYXRoZXJmdXNpb24uZG9tYWluLkdlb1BsYWNlCmltcG9ydCBjb20uaGFyZGlrYWdhcndhbC53ZWF0aGVyZnVzaW9uLmRvbWFpbi5XZWF0aGVyU25hcHNob3QKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5sYXVuY2gKCi8qKiBEYXNoYm9hcmQgc3RhdGUgbWFjaGluZTogZHJpdmVzIHRoZSB3aG9sZSBNYWluQWN0aXZpdHkgVUkuICovCnNlYWxlZCBjbGFzcyBEYXNoYm9hcmRTdGF0ZSB7CiAgICBkYXRhIG9iamVjdCBOb0xvY2F0aW9uIDogRGFzaGJvYXJkU3RhdGUoKQogICAgZGF0YSBvYmplY3QgTG9hZGluZyA6IERhc2hib2FyZFN0YXRlKCkKICAgIGRhdGEgY2xhc3MgUmVhZHkodmFsIHNuYXBzaG90OiBXZWF0aGVyU25hcHNob3QpIDogRGFzaGJvYXJkU3RhdGUoKQogICAgZGF0YSBjbGFzcyBFcnJvcih2YWwgbWVzc2FnZTogU3RyaW5nKSA6IERhc2hib2FyZFN0YXRlKCkKfQoKY2xhc3MgRGFzaGJvYXJkVmlld01vZGVsKAogICAgcHJpdmF0ZSB2YWwgcmVwb3NpdG9yeTogV2VhdGhlclJlcG9zaXRvcnkgPSBXZWF0aGVyUmVwb3NpdG9yeSgpLAogICAgcHJpdmF0ZSB2YWwgb3Blbk1ldGVvQXBpOiBPcGVuTWV0ZW9BcGkgPSBPcGVuTWV0ZW9BcGkoKSwKKSA6IFZpZXdNb2RlbCgpIHsKCiAgICBwcml2YXRlIHZhbCBfc3RhdGUgPSBNdXRhYmxlTGl2ZURhdGE8RGFzaGJvYXJkU3RhdGU+KERhc2hib2FyZFN0YXRlLk5vTG9jYXRpb24pCiAgICB2YWwgc3RhdGU6IExpdmVEYXRhPERhc2hib2FyZFN0YXRlPiA9IF9zdGF0ZQoKICAgIHByaXZhdGUgdmFsIF9zZWFyY2hSZXN1bHRzID0gTXV0YWJsZUxpdmVEYXRhPExpc3Q8R2VvUGxhY2U+PihlbXB0eUxpc3QoKSkKICAgIHZhbCBzZWFyY2hSZXN1bHRzOiBMaXZlRGF0YTxMaXN0PEdlb1BsYWNlPj4gPSBfc2VhcmNoUmVzdWx0cwoKICAgIGZ1biBvblBsYWNlQ2hvc2VuKHBsYWNlOiBHZW9QbGFjZSwgc3RvcmU6IExvY2F0aW9uU3RvcmUpIHsKICAgICAgICBzdG9yZS5zYXZlKHBsYWNlKSAvLyBzaW5nbGUgc291cmNlIG9mIHRydXRoIGZvciBhcHAgKyB3aWRnZXRzCiAgICAgICAgbG9hZFNuYXBzaG90KHBsYWNlKQogICAgfQoKICAgIGZ1biBsb2FkU25hcHNob3QocGxhY2U6IEdlb1BsYWNlKSB7CiAgICAgICAgX3N0YXRlLnZhbHVlID0gRGFzaGJvYXJkU3RhdGUuTG9hZGluZwogICAgICAgIHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7CiAgICAgICAgICAgIF9zdGF0ZS52YWx1ZSA9IHRyeSB7CiAgICAgICAgICAgICAgICBEYXNoYm9hcmRTdGF0ZS5SZWFkeShyZXBvc2l0b3J5LnNuYXBzaG90KHBsYWNlKSkKICAgICAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICBEYXNoYm9hcmRTdGF0ZS5FcnJvcihlLm1lc3NhZ2UgPzogIk5ldHdvcmsgZXJyb3IiKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIGZ1biBzZWFyY2gocXVlcnk6IFN0cmluZykgewogICAgICAgIGlmIChxdWVyeS5sZW5ndGggPCAyKSB7CiAgICAgICAgICAgIF9zZWFyY2hSZXN1bHRzLnZhbHVlID0gZW1wdHlMaXN0KCkKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgfQogICAgICAgIHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7CiAgICAgICAgICAgIF9zZWFyY2hSZXN1bHRzLnZhbHVlID0gcnVuQ2F0Y2hpbmcgeyBvcGVuTWV0ZW9BcGkuZ2VvY29kZShxdWVyeSkgfQogICAgICAgICAgICAgICAgLmdldE9yRGVmYXVsdChlbXB0eUxpc3QoKSkKICAgICAgICAgICAgICAgIC5tYXBOb3ROdWxsIHsgaXQudG9HZW9QbGFjZSgpIH0KICAgICAgICB9CiAgICB9Cn0KCi8qKiBEYXRhLWxheWVyIHdpcmUgbW9kZWwgLT4gZG9tYWluIG1vZGVsOyBudWxsIHdoZW4gY29vcmRpbmF0ZXMgYXJlIG1pc3NpbmcuICovCnByaXZhdGUgZnVuIEdlb2NvZGluZ1Jlc3VsdC50b0dlb1BsYWNlKCk6IEdlb1BsYWNlPyB7CiAgICB2YWwgbGF0ID0gbGF0aXR1ZGUgPzogcmV0dXJuIG51bGwKICAgIHZhbCBsb24gPSBsb25naXR1ZGUgPzogcmV0dXJuIG51bGwKICAgIHJldHVybiBHZW9QbGFjZSgKICAgICAgICBuYW1lID0gbmFtZSwKICAgICAgICBsYXRpdHVkZSA9IGxhdCwKICAgICAgICBsb25naXR1ZGUgPSBsb24sCiAgICAgICAgY291bnRyeSA9IGNvdW50cnksCiAgICAgICAgY291bnRyeUNvZGUgPSBjb3VudHJ5Q29kZSwKICAgICAgICBhZG1pbjEgPSBhZG1pbjEsCiAgICAgICAgdGltZXpvbmUgPSB0aW1lem9uZSwKICAgICkKfQo=
+package com.hardikagarwal.weatherfusion.ui
+
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewModelScope
+import com.hardikagarwal.weatherfusion.data.GeocodingResult
+import com.hardikagarwal.weatherfusion.data.LocationStore
+import com.hardikagarwal.weatherfusion.data.OpenMeteoApi
+import com.hardikagarwal.weatherfusion.data.WeatherRepository
+import com.hardikagarwal.weatherfusion.domain.GeoPlace
+import com.hardikagarwal.weatherfusion.domain.WeatherSnapshot
+import kotlinx.coroutines.launch
+
+/** Dashboard state machine: drives the whole MainActivity UI. */
+sealed class DashboardState {
+    data object NoLocation : DashboardState()
+    data object Loading : DashboardState()
+    data class Ready(val snapshot: WeatherSnapshot) : DashboardState()
+    data class Error(val message: String) : DashboardState()
+}
+
+class DashboardViewModel(
+    private val repository: WeatherRepository = WeatherRepository(),
+    private val openMeteoApi: OpenMeteoApi = OpenMeteoApi(),
+) : ViewModel() {
+
+    private val _state = MutableLiveData<DashboardState>(DashboardState.NoLocation)
+    val state: LiveData<DashboardState> = _state
+
+    private val _searchResults = MutableLiveData<List<GeoPlace>>(emptyList())
+    val searchResults: LiveData<List<GeoPlace>> = _searchResults
+
+    fun onPlaceChosen(place: GeoPlace, store: LocationStore) {
+        store.save(place) // single source of truth for app + widgets
+        loadSnapshot(place)
+    }
+
+    fun loadSnapshot(place: GeoPlace) {
+        _state.value = DashboardState.Loading
+        viewModelScope.launch {
+            _state.value = try {
+                DashboardState.Ready(repository.snapshot(place))
+            } catch (e: Exception) {
+                DashboardState.Error(e.message ?: "Network error")
+            }
+        }
+    }
+
+    fun search(query: String) {
+        if (query.length < 2) {
+            _searchResults.value = emptyList()
+            return
+        }
+        viewModelScope.launch {
+            _searchResults.value = runCatching { openMeteoApi.geocode(query) }
+                .getOrDefault(emptyList())
+                .mapNotNull { it.toGeoPlace() }
+        }
+    }
+}
+
+/** Data-layer wire model -> domain model; null when coordinates are missing. */
+private fun GeocodingResult.toGeoPlace(): GeoPlace? {
+    val lat = latitude ?: return null
+    val lon = longitude ?: return null
+    return GeoPlace(
+        name = name,
+        latitude = lat,
+        longitude = lon,
+        country = country,
+        countryCode = countryCode,
+        admin1 = admin1,
+        timezone = timezone,
+    )
+}
